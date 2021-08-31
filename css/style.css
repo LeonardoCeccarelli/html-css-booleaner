@@ -50,6 +50,31 @@ table {
 
 /* fine seione main */
 
+/* inizio sezione footer */
+
+.standard_foto_footer {
+    height: 150px;
+    width: 200px;
+    background-color: black;    
+    background-size: 100%;
+}
+
+.foto_footer1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+.foto_footer2 {
+    background-image: url(../img/graph.jpg);
+}
+
+.testo_foto_footer {
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+/* fine sezione footer */
+
 
 
 
