@@ -1,0 +1,28 @@
+/* inizio sezione header */
+
+.sezione_logo{
+    background-image: url(../img/pattern.png);
+    background-color: blue; 
+    background-size: 30%;
+    height: 100px;   
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+span {
+    color: grey;
+    font-weight: 600;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+/* fine sezione header */
