@@ -16,7 +16,7 @@ h1 {
     font-size: 3em;
 }
 
-span {
+.sottotitolo {
     color: grey;
     font-weight: 600;
 }
@@ -26,3 +26,31 @@ figcaption {
 }
 
 /* fine sezione header */
+
+/* inizio sezione main */
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+/********TABELLA********/
+
+table {
+    border-collapse: collapse;
+}
+
+.tabella_riga_thead {
+    background-color: blue;
+    color: white;
+}
+
+.tabella_riga_tbody {
+    background-color: lightblue;
+}
+
+/* fine seione main */
+
+
+
+
+
